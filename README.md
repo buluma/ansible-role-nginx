@@ -2,9 +2,9 @@
 
 Install and configure nginx on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|
-|------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-nginx/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-nginx/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-nginx/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-nginx)|[![quality](https://img.shields.io/ansible/quality/54561)](https://galaxy.ansible.com/buluma/nginx)|[![downloads](https://img.shields.io/ansible/role/d/54561)](https://galaxy.ansible.com/buluma/nginx)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-nginx.svg)](https://github.com/buluma/ansible-role-nginx/releases/)|
+|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|---------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-nginx/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-nginx/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-nginx/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-nginx)|[![quality](https://img.shields.io/ansible/quality/54561)](https://galaxy.ansible.com/buluma/nginx)|[![downloads](https://img.shields.io/ansible/role/d/54561)](https://galaxy.ansible.com/buluma/nginx)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-nginx.svg)](https://github.com/buluma/ansible-role-nginx/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-nginx.svg)](https://github.com/buluma/ansible-role-nginx/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-nginx.svg)](https://github.com/buluma/ansible-role-nginx/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
