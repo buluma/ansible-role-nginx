@@ -1,5 +1,9 @@
 # Changelog
 
+## [4.1.7](https://github.com/buluma/ansible-role-nginx/tree/4.1.7) (2022-05-13)
+
+[Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.1.6...4.1.7)
+
 ## [4.1.6](https://github.com/buluma/ansible-role-nginx/tree/4.1.6) (2022-04-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.1.5...4.1.6)
