@@ -1,4 +1,4 @@
-# [nginx](#nginx)
+# [Ansible role nginx](#nginx)
 
 Install and configure nginx on your system.
 
