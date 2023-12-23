@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-nginx/tree/HEAD)
+## [4.1.9](https://github.com/buluma/ansible-role-nginx/tree/4.1.9) (2023-12-17)
 
-[Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.1.8...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.1.8...4.1.9)
 
 **Closed issues:**
 
