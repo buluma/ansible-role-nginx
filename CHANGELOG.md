@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.3.0](https://github.com/buluma/ansible-role-nginx/tree/4.3.0) (2024-01-10)
+
+[Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.2.0...4.3.0)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#14](https://github.com/buluma/ansible-role-nginx/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [4.2.0](https://github.com/buluma/ansible-role-nginx/tree/4.2.0) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.1.10...4.2.0)
