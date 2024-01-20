@@ -1,5 +1,21 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-nginx/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.3.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#18](https://github.com/buluma/ansible-role-nginx/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [4.3.0](https://github.com/buluma/ansible-role-nginx/tree/4.3.0) (2024-01-10)
+
+[Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.2.0...4.3.0)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#14](https://github.com/buluma/ansible-role-nginx/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [4.2.0](https://github.com/buluma/ansible-role-nginx/tree/4.2.0) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-nginx/compare/4.1.10...4.2.0)
