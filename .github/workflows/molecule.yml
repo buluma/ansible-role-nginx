@@ -21,7 +21,8 @@ on:
   pull_request:
   pull_request_target:
   schedule:
-    - cron: '27 14 14 * *'
+    # - cron: '27 14 14 * *'
+    - cron: '27 14 * * *'
 
   workflow_dispatch:
 
@@ -64,8 +65,6 @@ jobs:
           - image: "docker-molecule-images"
             tag: "focal"
           - image: "docker-molecule-images"
-            tag: "bionic"
-          - image: "docker-molecule-images"
             tag: "jammy"
           - image: "docker-molecule-images"
             tag: "lunar"
@@ -79,7 +78,7 @@ jobs:
         with:
           path: "${{ github.repository }}"
       - name: Running Molecule Test
-        uses: buluma/molecule-action@v24.2.0
+        uses: buluma/molecule-action@v24.6.17
         with:
           image: ${{ matrix.config.image }}
           tag: ${{ matrix.config.tag }}
