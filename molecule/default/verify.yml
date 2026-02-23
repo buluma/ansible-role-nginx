@@ -1,11 +1,11 @@
 ---
-  - name: Verify
-    hosts: all
-    become: true
-    gather_facts: false
+- name: Verify
+  hosts: all
+  become: true
+  gather_facts: false
 
-    tasks:
-      - name: Test nginx
-        ansible.builtin.shell:
-          cmd: nginx -V
-        changed_when: false
+  tasks:
+  - name: Test nginx
+    ansible.builtin.shell:
+      cmd: nginx -V
+    changed_when: false
