@@ -5,7 +5,7 @@
   gather_facts: false
 
   tasks:
-  - name: Test nginx
-    ansible.builtin.shell:
-      cmd: nginx -V
-    changed_when: false
+    - name: Test nginx
+      ansible.builtin.shell:
+        cmd: nginx -V
+      changed_when: false
